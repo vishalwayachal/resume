@@ -1,0 +1,171 @@
+{
+  "name": "Full Stack Developer",
+  "title": "Full Stack Developer / Tech Lead",
+  "contact": {
+    "phone": "+91 XXXXXXXX",
+    "email": "email@example.com",
+    "linkedin": "linkedin.com/in/username"
+  },
+  "summary": [
+    "Full Stack Developer with 13+ years of experience delivering secure, scalable, and high-performance applications across Live Streaming, AI, and enterprise platforms.",
+    "Experienced in integrating AI/ML services, real-time data pipelines, and intelligent user experiences.",
+    "Skilled in cloud-native architecture, RESTful API design, team leadership, and full-stack delivery using modern JavaScript, Python, and PHP technologies.",
+    "Proficient in PHP, Node.js, Vue.js, Python, Angular.js",
+    "Skilled in cloud-native architecture, RESTful API design, and performance optimization",
+    "Experienced in team mentoring, Agile delivery, and cross-functional collaboration"
+  ],
+  "skills": [
+    { "label": "Languages & Frameworks", "value": "Node.js (Nest, Express), PHP (Laravel, Yii), Python (FastAPI), Vue.js, Angular" },
+    { "label": "Databases", "value": "PostgreSQL, MongoDB, Redis, MySQL, SQL Server, Elasticsearch" },
+    { "label": "AI Integrations", "value": "OpenAI, Google Vision API, AWS Rekognition, TensorFlow, HuggingFace" },
+    { "label": "Third-Party Integrations", "value": "Wowza, Jitsi, Hive, Stripe, PayPal, Google API, Auth0, Minio, RabbitMQ, Kafka" },
+    { "label": "Cloud & DevOps", "value": "AWS, Google Cloud, Docker, Kubernetes, CI/CD, Git, GitHub Actions" },
+    { "label": "Project Management", "value": "Agile, Scrum, SDLC, Jira" },
+    { "label": "Practices", "value": "API Design, Microservices Architecture, Code Review, Performance Optimization" }
+  ],
+  "experience": [
+    {
+      "title": "Development Team Lead",
+      "company": "Mobifilia Software LLP",
+      "date": "Jan 2014 – Present",
+      "details": [
+        "Led full-stack development using PHP, Node.js, Vue.js, and PostgreSQL",
+        "Improved backend performance by 40%, supporting high-concurrency workloads",
+        "Optimized backend APIs, reducing response time by 40%",
+        "Implemented CI/CD pipelines, cutting deployment time by 70%",
+        "Mentored 8+ developers, elevating code quality and Agile practices"
+      ]
+    },
+    {
+      "title": "Senior Software Developer",
+      "company": "The Zanvar Group",
+      "date": "Apr 2011 – Dec 2013",
+      "details": [
+        "Developed enterprise applications using .NET and SQL Server",
+        "Created technical documentation and supported cross-team collaboration",
+        "Managed client communication, project planning, and timely delivery"
+      ]
+    },
+    {
+      "title": "Software Developer",
+      "company": "MAI-SOFT",
+      "date": "Apr 2009 – Mar 2011",
+      "details": [
+        "Designed and delivered custom .NET-based solutions for business-critical needs"
+      ]
+    }
+  ],
+  "education": [
+    { "degree": "Master of Computer Science", "school": "Shivaji University", "date": "2006 – 2008" },
+    { "degree": "Bachelor of Computer Science", "school": "New College", "date": "2003 – 2006" }
+  ],
+  "certifications": [
+    "Microsoft Certified Technology Specialist (MCTS)",
+    "Linchpin Award – Mobifilia (2023)",
+    "HIPAA Associate"
+  ],
+  "achievements": [
+    "Boosted team productivity by 20% through Agile processes and mentoring",
+    "Reduced technical debt by 35% with structured refactoring and code reviews",
+    "Delivered client-facing platforms contributing to 25% increase in revenue"
+  ],
+  "projects": [
+    {
+      "title": "Keek Social",
+      "role": "Full Stack Developer",
+      "date": "Jan 2022 – Present",
+      "details": [
+        "Developed a video sharing platform using Vue.js, PHP, PostgreSQL, Wowza & Jitsi",
+        "Integrated AI services and Google APIs for real-time publishing",
+        "Project URL: https://keek.com"
+      ]
+    },
+    {
+      "title": "Peeks Live Streaming",
+      "role": "Tech Lead",
+      "date": "Jun 2021 – Present",
+      "details": [
+        "Built a live streaming service using PHP, PostgreSQL, Vue.js, RabbitMQ, Couchbase",
+        "Oversaw deployment pipeline and sprint delivery",
+        "Project URL: https://www.peeks.com"
+      ]
+    },
+    {
+      "title": "Nivi Health Chatbot",
+      "role": "Tech Lead",
+      "date": "Jan 2020 – May 2021",
+      "details": [
+        "Built a multilingual chatbot using Node.js, PostgreSQL, MongoDB, Redis, Vue.js",
+        "Deployed with AWS Lambda; CI/CD via CircleCI and Heroku",
+        "Project URL: https://www.nivi.io"
+      ]
+    },
+    {
+      "title": "ANN Messaging Platform",
+      "role": "Sr. Software Developer",
+      "date": "Jan 2020 – Jun 2020",
+      "details": [
+        "Implemented chat system using Node.js, MongoDB, AngularJS, AWS EC2",
+        "Designed RESTful APIs and structured Mongo data models",
+        "Project URL: https://www.ann.com"
+      ]
+    },
+    {
+      "title": "GetAssist Social Platform",
+      "role": "Sr. Software Developer",
+      "date": "Jan 2015 – Jan 2020",
+      "details": [
+        "Built a social/business app using PHP, Node.js, MySQL, MongoDB, Elasticsearch",
+        "Managed sprints and backend architecture in a 12-member team",
+        "Project URL: https://www.getassist.com"
+      ]
+    },
+    {
+      "title": "The Crossing Resort",
+      "role": "Sr. Software Developer",
+      "date": "Jan 2019 – Jan 2020",
+      "details": [
+        "Built reservation and booking engine using Node.js, AngularJS, MongoDB",
+        "Created APIs and deployed on AWS EC2 with JIRA tracking",
+        "Project URL: https://www.thecrossingresort.com"
+      ]
+    },
+    {
+      "title": "Kloojj Content Clipping Tool",
+      "role": "Sr. Software Developer",
+      "date": "Jan 2016 – Jan 2018",
+      "details": [
+        "Engineered video/image clipping features using Node.js, Redis, ElasticSearch, AngularJS",
+        "Integrated Google APIs and Kango Extension, deployed via Jenkins",
+        "Project URL: https://www.kloojj.com"
+      ]
+    },
+    {
+      "title": "Smart Clinic (mHealth Platform)",
+      "role": "Sr. Software Developer",
+      "date": "May 2015 – Jan 2017",
+      "details": [
+        "Developed real-time patient-clinic messaging using PHP, MySQL, and jQuery",
+        "Designed scalable backend services for appointments and records"
+      ]
+    },
+    {
+      "title": "Identikit (Facial Composite Tool)",
+      "role": "Software Developer",
+      "date": "Jan 2014 – Jul 2015",
+      "details": [
+        "Built a forensic sketch tool using C#, ASP.NET, SQL Server",
+        "Enabled sketch generation, export, and cross-platform sharing"
+      ]
+    },
+    {
+      "title": "Fourndry ERP – Zanvar Group",
+      "role": "Software Developer",
+      "date": "Apr 2011 – Dec 2013",
+      "details": [
+        "Developed ERP modules for foundry operations using ASP.NET, SQL Server, RDLC",
+        "Designed APIs and interfaces for production and reporting workflows"
+      ]
+    }
+  ]
+}
