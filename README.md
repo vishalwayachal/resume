@@ -34,11 +34,12 @@ http://localhost:8000/resume.html
 
 ## Files
 - `resume.html` — Main HTML file that loads and renders the resume.
-- `resume.json` — All resume data in JSON format.
+- `resume.json` — All (anonymized) resume data in JSON format.
 - `README.md` — This file.
 
-
 ## Preview
+
+Below are screenshots of the anonymized resume rendered in the browser:
 
 ![Resume Screenshot 1](screenshots/1.png)
 ![Resume Screenshot 2](screenshots/2.png)
@@ -46,6 +47,7 @@ http://localhost:8000/resume.html
 ![Resume Screenshot 4](screenshots/4.png)
 ![Resume Screenshot 5](screenshots/5.png)
 ![Resume Screenshot 6](screenshots/6.png)
+
 ## Troubleshooting
 - If you see a blank page, make sure you are running a local server (see step 1 above).
 - The fetch API does not work with `file://` URLs due to browser security.
